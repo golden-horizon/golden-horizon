@@ -1,101 +1,72 @@
 <div align="center">
 
-# Hi, I'm Navid Ghobadpour 👋
-
-### Cybersecurity • AI Engineering • Cloud • Software Development
-
-*Inspired to build practical AI, cloud and cybersecurity solutions that help make our digital communities safer.*
-
-📍 Sydney, Australia  
-🇦🇺 Australian Citizen
+<img src="./assets/banner.png" width="100%" alt="Navid Ghobadpour GitHub banner">
 
 <br>
 
-[**📄 View Professional Portfolio**](./Navid-Ghobadpour-Portfolio.pdf)
+### Sydney, Australia
+
+[View Portfolio](./Navid-Ghobadpour-Portfolio.pdf) ·
+[LinkedIn](https://www.linkedin.com/in/navid-ghobadpour-90178180) ·
+[GitHub](https://github.com/golden-horizon)
 
 </div>
 
 ---
 
-## About Me
+## About
 
-I'm an IT and Cyber Security graduate with a strong interest in cybersecurity, artificial intelligence, cloud technologies and software engineering.
+I'm an IT and Cyber Security graduate who enjoys building practical systems across artificial intelligence, cybersecurity, cloud infrastructure and software development.
 
-Over the past year, I've focused on building practical projects rather than only studying theory. My work includes developing a Security Operations Center (SOC) platform, an AI-powered Security Operations Platform and an AgentOps Control Tower for enterprise AI governance.
+My projects include a full-stack Security Operations Centre platform, an AI-assisted security investigation platform and an AgentOps Control Tower for managing AI agents, policies, approvals and audit activity.
 
-I enjoy solving technical problems, learning modern technologies and turning ideas into working solutions.
+I enjoy turning technical ideas into working applications and learning through building.
 
 ---
 
-## Featured Projects
+## What I've Built
 
 ### AI Security Operations Platform
 
-A multi-agent security platform that assists analysts by automating investigations using AI, threat intelligence and local LLMs.
+An AI-assisted security investigation platform that combines local language models, threat intelligence, automated reasoning and multi-agent workflows.
 
-**Technologies**
+**Technology:** Python · PydanticAI · MCP · PostgreSQL · Ollama
 
-Python • PydanticAI • MCP • PostgreSQL • Ollama
-
-**Repository**
-
-https://github.com/golden-horizon/agentic-ai-security-operations-platform
+[View repository](https://github.com/golden-horizon/agentic-ai-security-operations-platform)
 
 ---
 
 ### Golden Horizon SOC Platform
 
-A full-stack Security Operations Center designed for monitoring, investigations, threat hunting and executive reporting.
+A full-stack Security Operations Centre platform for security monitoring, incident investigation, threat detection, case management and reporting.
 
-**Technologies**
+**Technology:** React · Node.js · Express · PostgreSQL · Socket.IO
 
-React • Node.js • PostgreSQL • Socket.IO
-
-**Repository**
-
-https://github.com/golden-horizon/golden-horizon-soc-frontend
+[View repository](https://github.com/golden-horizon/golden-horizon-soc-frontend)
 
 ---
 
 ### AgentOps Control Tower
 
-A governance platform for managing enterprise AI agents, policies, approvals and audit logging.
+A governance platform for registering and managing AI agents, enforcing policies, reviewing approval requests and maintaining audit logs.
 
-**Technologies**
+**Technology:** React · Node.js · Express · PostgreSQL
 
-React • Express • PostgreSQL
-
-**Repository**
-
-https://github.com/golden-horizon/agentops-control-tower
+[View repository](https://github.com/golden-horizon/agentops-control-tower)
 
 ---
 
-## Technical Skills
+## Technical Toolbox
 
-### Programming
-
-Python • JavaScript • SQL
-
-### Frontend
-
-React • HTML • CSS
-
-### Backend
-
-Node.js • Express • REST APIs
-
-### Cloud
-
-AWS • Docker • Linux
-
-### Databases
-
-PostgreSQL
-
-### AI
-
-PydanticAI • MCP • Local LLMs
+| Area | Technologies |
+|---|---|
+| Programming | Python · JavaScript · SQL |
+| Frontend | React · HTML · CSS |
+| Backend | Node.js · Express · REST APIs |
+| AI | PydanticAI · MCP · Ollama · Agentic AI |
+| Cloud | AWS · Docker · Linux |
+| Database | PostgreSQL |
+| Security | MITRE ATT&CK · Threat Detection · Incident Investigation |
 
 ---
 
@@ -104,8 +75,8 @@ PydanticAI • MCP • Local LLMs
 - AWS Certified Solutions Architect – Associate
 - ISC2 Certified in Cybersecurity
 - Cisco Ethical Hacker
-- AMD AI Academy
 - OpenEDG Python Professional
+- AMD AI Academy
 - freeCodeCamp Responsive Web Design
 - freeCodeCamp Relational Database
 
@@ -113,7 +84,7 @@ PydanticAI • MCP • Local LLMs
 
 ## Education
 
-**Diploma of Information Technology (Cyber Security)**  
+**Diploma of Information Technology — Cyber Security**  
 TAFE NSW
 
 **Certificate IV in Cyber Security**  
@@ -123,5 +94,6 @@ TAFE NSW
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/navid-ghobadpour-90178180
-- GitHub: https://github.com/golden-horizon
+- [LinkedIn](https://www.linkedin.com/in/navid-ghobadpour-90178180)
+- [Professional Portfolio](./Navid-Ghobadpour-Portfolio.pdf)
+- Email: navid77g@gmail.com
