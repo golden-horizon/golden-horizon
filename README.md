@@ -6,7 +6,7 @@
 
 ### Sydney, Australia
 
-[View Portfolio](./Navid-Ghobadpour-Portfolio.pdf) ·
+[📄 View Portfolio](https://github.com/golden-horizon/golden-horizon/raw/main/Navid_Ghobadpour_Portfolio.pdf) ·
 [LinkedIn](https://www.linkedin.com/in/navid-ghobadpour-90178180) ·
 [GitHub](https://github.com/golden-horizon)
 
